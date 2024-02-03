@@ -8,7 +8,7 @@
       <x-icons.search class="h-4 w-4 fill-magic-600" />
     </div>
     <input
-      class="text- h-10 w-full rounded-lg border-none bg-magic-100 ps-10 text-sm placeholder-magic-700 focus:ring-transparent"
+      class="h-10 w-full rounded-lg border-none bg-magic-100 ps-10 text-sm text-magic-text-dark placeholder-magic-700 focus:ring-transparent"
       id="search-product"
       type="search"
       placeholder="Buscar un producto..."
