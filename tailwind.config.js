@@ -10,6 +10,10 @@ export default {
   ],
 
   theme: {
+    screens: {
+      xs: "425px",
+      ...defaultTheme.screens,
+    },
     extend: {
       colors: {
         magic: {
