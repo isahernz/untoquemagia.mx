@@ -1,6 +1,6 @@
-<article class="flex h-auto w-40 flex-col gap-3 sm:w-52">
+<article class="flex h-auto w-full flex-col gap-3 xs:w-full">
   <img
-    class="h-40 w-full rounded-3xl object-cover sm:h-52"
+    class="h-auto w-full rounded-3xl object-cover object-center xs:h-60"
     src="https://images.pexels.com/photos/17147171/pexels-photo-17147171/free-photo-of-moda-modelo-retrato-mercado.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     alt="Hoddie Tejida"
   >
